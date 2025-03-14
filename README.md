@@ -21,5 +21,5 @@
  ---
  [![](https://visitcount.itsvg.in/api?id=Radoman-ra&icon=0&color=0)](https://visitcount.itsvg.in)
 
- <p align="left"> <img src="https://komarev.com/ghpvc/?username=radoman-ra&label=Visits&color=050505&style=flat-square" alt="radoman-ra" /> </p>
+![](https://komarev.com/ghpvc/?username=radoman-ra&style=for-the-badge&color=000000&label=visits:)
 
