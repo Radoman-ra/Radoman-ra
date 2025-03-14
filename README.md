@@ -1,6 +1,6 @@
 ### Hello there <img src="https://user-images.githubusercontent.com/22433209/113253549-afc3f600-92c5-11eb-99c8-bb15bea70d4d.gif" width="20px">
 
-My name is Maksim Radoman – a passionate developer from Warsaw, Poland. <br><br>I specialize in Python and web technologies,<br>working on projects ranging from e-commerce solutions to robust APIs. 🐍<br><br>Always open to new ideas and collaborations. 🤝🚀
+My name is Maksim. I'm a passionate developer living in Warsaw, Poland. I'm always eager to learn and stay up-to-date with new technologies. Enthusiastic about personal productivity and efficiency.
  
  
  ## 🌐 Socials:
