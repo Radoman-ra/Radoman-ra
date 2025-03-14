@@ -33,8 +33,6 @@ My name is Maksim. I'm a passionate developer living in Warsaw, Poland. I'm alwa
 <br />
 
  # 📊 GitHub Stats:
- ![](https://github-readme-stats.vercel.app/api?username=Radoman-ra&theme=one_dark_pro&hide_border=true&include_all_commits=true&count_private=true)<br/>
- ![](https://nirzak-streak-stats.vercel.app/?user=Radoman-ra&theme=one_dark_pro&hide_border=true)<br/>
  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Radoman-ra&theme=one_dark_pro&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
  
  ### ✍️ Random Dev Quote
