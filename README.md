@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Maksim</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+### Hello there <img src="https://user-images.githubusercontent.com/22433209/113253549-afc3f600-92c5-11eb-99c8-bb15bea70d4d.gif" width="20px">
 
 # 💫 About Me:
  Hello! I'm Maksim Radoman – a passionate developer from Warsaw, Poland. <br><br>I specialize in Python and web technologies,<br>working on projects ranging from e-commerce solutions to robust APIs. 🐍<br><br>Always open to new ideas and collaborations. 🤝🚀
