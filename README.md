@@ -33,9 +33,6 @@ My name is Maksim. I'm a passionate developer living in Warsaw, Poland. I'm alwa
 <br />
 
  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Radoman-ra&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
- 
- ---
- [![](https://visitcount.itsvg.in/api?id=Radoman-ra&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ![](https://komarev.com/ghpvc/?username=radoman-ra&style=for-the-badge&color=000000&label=visits:)
 
