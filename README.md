@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Maksim</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=radoman-ra&label=Views&color=050505&style=flat-square" alt="radoman-ra" /> </p>
-
 # 💫 About Me:
  Hello! I'm Maksim Radoman – a passionate developer from Warsaw, Poland. <br><br>I specialize in Python and web technologies,<br>working on projects ranging from e-commerce solutions to robust APIs. 🐍<br><br>Always open to new ideas and collaborations. 🤝🚀
  
@@ -22,5 +20,6 @@
  
  ---
  [![](https://visitcount.itsvg.in/api?id=Radoman-ra&icon=0&color=0)](https://visitcount.itsvg.in)
- 
- <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+ <p align="left"> <img src="https://komarev.com/ghpvc/?username=radoman-ra&label=Views&color=050505&style=flat-square" alt="radoman-ra" /> </p>
+
