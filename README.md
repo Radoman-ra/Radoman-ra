@@ -12,8 +12,6 @@ My name is Maksim. I'm a passionate developer living in Warsaw, Poland. I'm alwa
 ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
 ![HTML](https://img.shields.io/badge/-HTML-black?style=flat-square&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-black?style=flat-square&logo=css3)
-![C#](https://img.shields.io/badge/-C%23-black?style=flat-square&logo=csharp)
-![Java](https://img.shields.io/badge/java-black?style=flat-square&logo=openjdk&logoColor=white) 
 <br />
 ![frameworks](https://img.shields.io/static/v1?label=&message=frameworks:&color=0C1117&style=flat-square)
 ![Django](https://img.shields.io/badge/django-black?style=flat-square&logo=django&logoColor=white) 
