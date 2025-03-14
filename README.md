@@ -30,9 +30,8 @@
 <br />
 ![other](https://img.shields.io/static/v1?label=&message=other:&color=0C1117&style=flat-square)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
-![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-232F7E?style=flat-square&logo=microsoft-azure)
+![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-black?style=flat-square&logo=microsoft-azure)
 ![linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=linux&logoColor=white)
-![Markdown](https://img.shields.io/badge/markdown?style=flat-squaree&logo=markdown&logoColor=white) 
 <br />
 
  # 📊 GitHub Stats:
