@@ -9,7 +9,32 @@
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/maksim-radoman-20b362352/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rmaksim886@gmail.com) 
  
  # 💻 Tech Stack:
- ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+![languages](https://img.shields.io/static/v1?label=&message=languages:&color=0C1117&style=flat-square)
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
+![HTML](https://img.shields.io/badge/-HTML-black?style=flat-square&logo=html5)
+![CSS](https://img.shields.io/badge/-CSS-black?style=flat-square&logo=css3)
+![C#](https://img.shields.io/badge/-C%23-black?style=flat-square&logo=csharp)
+![Java](https://img.shields.io/badge/java-black?style=flat-square&logo=openjdk&logoColor=white) 
+<br />
+![frameworks](https://img.shields.io/static/v1?label=&message=frameworks:&color=0C1117&style=flat-square)
+![Django](https://img.shields.io/badge/django-black?style=flat-square&logo=django&logoColor=white) 
+![FastAPI](https://img.shields.io/badge/FastAPI-black?style=flat-square&logo=fastapi) 
+![Vue.js](https://img.shields.io/badge/-Vue.js-black?style=flat-square&logo=vuedotjs)
+<br />
+![databases](https://img.shields.io/static/v1?label=&message=databases:&color=0C1117&style=flat-square)
+![mysql](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+![postgresql](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql)
+<br />
+![other](https://img.shields.io/static/v1?label=&message=other:&color=0C1117&style=flat-square)
+![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
+![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-232F7E?style=flat-square&logo=microsoft-azure)
+![linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=linux&logoColor=white)
+![Markdown](https://img.shields.io/badge/markdown?style=flat-squaree&logo=markdown&logoColor=white) 
+<br />
+
  # 📊 GitHub Stats:
  ![](https://github-readme-stats.vercel.app/api?username=Radoman-ra&theme=one_dark_pro&hide_border=true&include_all_commits=true&count_private=true)<br/>
  ![](https://nirzak-streak-stats.vercel.app/?user=Radoman-ra&theme=one_dark_pro&hide_border=true)<br/>
