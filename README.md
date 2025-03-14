@@ -32,8 +32,7 @@ My name is Maksim. I'm a passionate developer living in Warsaw, Poland. I'm alwa
 ![linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=linux&logoColor=white)
 <br />
 
- # 📊 GitHub Stats:
- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Radoman-ra&theme=one_dark_pro&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+ ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Radoman-ra&theme=black&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
  
  ### ✍️ Random Dev Quote
  ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
