@@ -3,7 +3,7 @@
 My name is Maksim. I'm a passionate developer living in Warsaw, Poland. I'm always eager to learn and stay up-to-date with new technologies. Enthusiastic about personal productivity and efficiency.
  
  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/maksim-radoman-20b362352/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rmaksim886@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-black?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/maksim-radoman-20b362352/) [![email](https://img.shields.io/badge/Email-black?logo=gmail&logoColor=white)](mailto:rmaksim886@gmail.com) 
  
 
 ![languages](https://img.shields.io/static/v1?label=&message=languages:&color=0C1117&style=flat-square)
