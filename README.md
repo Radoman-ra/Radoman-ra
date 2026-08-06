@@ -36,7 +36,6 @@ Passionate fullstack developer focused on building clean, efficient and scalable
 ![databases](https://img.shields.io/static/v1?label=&message=databases:&color=0C1117&style=flat-square)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql)
-![Redis](https://img.shields.io/badge/-Redis-black?style=flat-square&logo=redis)
 <br />
 
 ![ai tools](https://img.shields.io/static/v1?label=&message=ai%20tools:&color=0C1117&style=flat-square)
@@ -51,9 +50,6 @@ Passionate fullstack developer focused on building clean, efficient and scalable
 ![devops & tools](https://img.shields.io/static/v1?label=&message=devops%20%26%20tools:&color=0C1117&style=flat-square)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-black?style=flat-square&logo=kubernetes)
-![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-black?style=flat-square&logo=githubactions)
-![Nginx](https://img.shields.io/badge/-Nginx-black?style=flat-square&logo=nginx)
 ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-black?style=flat-square&logo=rabbitmq)
 ![Postman](https://img.shields.io/badge/-Postman-black?style=flat-square&logo=postman)
 ![Microsoft Azure](https://img.shields.io/badge/-Microsoft%20Azure-black?style=flat-square&logo=microsoft-azure)
